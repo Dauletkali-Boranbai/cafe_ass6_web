@@ -1,0 +1,8 @@
+[
+  { "name": "Caesar Salad", "description": "Chicken, parmesan, croutons and Caesar dressing", "category": "Salad", "type": "food", "price": 3200 },
+  { "name": "Lagman", "description": "Hand-pulled noodles with beef and vegetables", "category": "Soup", "type": "food", "price": 3400 },
+  { "name": "Chicken Teriyaki", "description": "Grilled chicken in teriyaki sauce with rice", "category": "Hot Dish", "type": "food", "price": 4300 },
+  { "name": "Tiramisu", "description": "Italian dessert with mascarpone and coffee", "category": "Dessert", "type": "food", "price": 2900 },
+  { "name": "Boza", "description": "Traditional fresh BOZA from our brewery, 300 ml", "category": "National Drink", "type": "drink", "price": 1200 },
+  { "name": "Green Tea", "description": "Pot of green tea, 500 ml", "category": "Tea", "type": "drink", "price": 1500 }
+]
